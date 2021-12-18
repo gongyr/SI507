@@ -8,6 +8,9 @@ The web from IMDB (from page 1 to 50):
 <br />
 https://www.imdb.com/search/title/?groups=top_1000&view=simple&sort=user_rating,desc
 
+## Data Structure
+B-Tree <br />
+All fetched data are stored in a tree with nested nodes. 
 
 ## Run the Program
 ### Step 1 (Optional): Make you own csv or download the csv from the repository
@@ -19,6 +22,9 @@ if __name__ == '__main__':
     ...
     pass
 ```
+```
+$ python3 final_project.py
+``` 
 (2) Download the csv from the repository:
 <br />
 top_1000_movies.csv

@@ -255,5 +255,4 @@ def save_tree_to_json():
 if __name__ == '__main__':
     # make_csv()
     # save_tree_to_json()
-    # main()
-    pass
+     main()
